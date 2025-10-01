@@ -2,5 +2,4 @@ https://snack.expo.dev/@22714811/lab5bai1
 https://snack.expo.dev/@22714811/lab5bai2
 https://snack.expo.dev/@22714811/lab5bai3
 https://snack.expo.dev/@22714811/lab5bai4
-https://snack.expo.dev/@22714811/lab5bai5# B2: Sau khi merge xong, push lại
-git push -u origin main
+https://snack.expo.dev/@22714811/lab5bai5
